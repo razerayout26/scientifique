@@ -1,0 +1,11 @@
+▶️ Utilisation
+Lance le fichier exécutable généré :
+
+Sous Linux / macOS :
+
+Bash
+./calculatrice
+Sous Windows :
+
+Bash
+calculatrice.exe
